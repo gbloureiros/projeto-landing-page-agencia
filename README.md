@@ -17,6 +17,7 @@ Esse projeto é um landing page de uma agencia de exemplo (fictícia). Criado co
 ### Screenshot
 
 ![](./src/images/tela%20principal.png)
+![](./src/images/responsividade.gif)
 
 ### Links
 
