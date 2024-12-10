@@ -20,7 +20,7 @@ Esse projeto é um landing page de uma agencia de exemplo (fictícia). Criado co
 
 ### Links
 
-- Live Site URL: [Clique aqui](https://your-live-site-url.com)
+- Live Site URL: [Clique aqui](https://gbloureiros.github.io/projeto-landing-page-agencia/)
 
 ## Meu processo
 
